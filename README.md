@@ -57,7 +57,7 @@ The dataset was collected from **[Kaggle](https://www.kaggle.com/)**, cleaned, a
 
 *Note: Replace the image paths with your actual images from the `Images/` folder.*
 ### 🔗 View Full Power BI Dashboard Online  
-[Click here to open the Power BI Dashboard](https://app.powerbi.com/links/z3I7GGoLO3?ctid=efd5b06c-ccb0-46eb-a8db-887c4a53da3c&pbi_source=linkShare)
+[Click Here To Open The Power BI Dashboard](https://app.powerbi.com/links/z3I7GGoLO3?ctid=efd5b06c-ccb0-46eb-a8db-887c4a53da3c&pbi_source=linkShare)
 ---
 
 ## 🧾 Dataset  
