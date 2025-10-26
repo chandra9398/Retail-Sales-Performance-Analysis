@@ -2,7 +2,7 @@
 Developed an interactive data analysis project to evaluate retail sales performance across regions, categories, and time periods. Collected a dataset from Kaggle, cleaned and visualized data to identify top products, regions, and customers, highlighting key insights for data-driven decisions.
 
 An **interactive data analytics project** that evaluates and visualizes retail sales performance across regions, categories, and time periods.  
-Using **Python, SQL, Power BI, and Excel**, this project delivers **actionable insights** for **data-driven decision-making**.
+Using **Python, SQL, Power BI**, this project delivers **actionable insights** for **data-driven decision-making**.
 
 ---
 
@@ -23,7 +23,6 @@ The dataset was collected from **[Kaggle](https://www.kaggle.com/)**, cleaned, a
 | Tool | Purpose |
 |------|---------|
 | 🐍 **Python** | Data cleaning, preprocessing, and analysis |
-| 🧮 **Excel** | Initial data exploration and calculations |
 | 🗃️ **SQL** | Querying and extracting data |
 | 📊 **Power BI** | Interactive dashboards and visualizations |
 
@@ -43,17 +42,17 @@ The dataset was collected from **[Kaggle](https://www.kaggle.com/)**, cleaned, a
 
 ### 🗓️ Monthly Sales and Profit Trends  
 <p align="center">
-  <img src="Images/monthly_sales_profit.png" alt="Monthly Sales & Profit" width="500"/>
+  <img src="Images/region_wise_performance.png" alt="" width="500"/>
 </p>
 
 ### 📦 Top 10 Products by Sales  
 <p align="center">
-  <img src="Images/top_10_products.png" alt="Top 10 Products" width="500"/>
+  <img src="Images/top_10_products_by_sales.png" alt="Top 10 Products" width="500"/>
 </p>
 
 ### 📊 Interactive Dashboard Overview  
 <p align="center">
-  <img src="Images/dashboard_overview.png" alt="Dashboard Overview" width="500"/>
+  <img src="Images/Dashboard.jpg" alt="Dashboard Overview" width="500"/>
 </p>
 
 *Note: Replace the image paths with your actual images from the `Images/` folder.*
